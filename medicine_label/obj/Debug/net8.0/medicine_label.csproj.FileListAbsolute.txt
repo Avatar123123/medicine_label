@@ -1,0 +1,14 @@
+/Users/ronaccount/Documents/Project/C#/medicine_label/bin/Debug/net8.0/medicine_label
+/Users/ronaccount/Documents/Project/C#/medicine_label/bin/Debug/net8.0/medicine_label.deps.json
+/Users/ronaccount/Documents/Project/C#/medicine_label/bin/Debug/net8.0/medicine_label.runtimeconfig.json
+/Users/ronaccount/Documents/Project/C#/medicine_label/bin/Debug/net8.0/medicine_label.dll
+/Users/ronaccount/Documents/Project/C#/medicine_label/bin/Debug/net8.0/medicine_label.pdb
+/Users/ronaccount/Documents/Project/C#/medicine_label/obj/Debug/net8.0/medicine_label.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronaccount/Documents/Project/C#/medicine_label/obj/Debug/net8.0/medicine_label.AssemblyInfoInputs.cache
+/Users/ronaccount/Documents/Project/C#/medicine_label/obj/Debug/net8.0/medicine_label.AssemblyInfo.cs
+/Users/ronaccount/Documents/Project/C#/medicine_label/obj/Debug/net8.0/medicine_label.csproj.CoreCompileInputs.cache
+/Users/ronaccount/Documents/Project/C#/medicine_label/obj/Debug/net8.0/medicine_label.dll
+/Users/ronaccount/Documents/Project/C#/medicine_label/obj/Debug/net8.0/refint/medicine_label.dll
+/Users/ronaccount/Documents/Project/C#/medicine_label/obj/Debug/net8.0/medicine_label.pdb
+/Users/ronaccount/Documents/Project/C#/medicine_label/obj/Debug/net8.0/medicine_label.genruntimeconfig.cache
+/Users/ronaccount/Documents/Project/C#/medicine_label/obj/Debug/net8.0/ref/medicine_label.dll
